@@ -1,0 +1,28 @@
+_repo: Bulfinch-s-Mythology_4928
+creator:
+  author:
+    agent_name: Bulfinch, Thomas
+    birthdate: 1796
+    deathdate: 1867
+    gutenberg_agent_id: '1179'
+    url: http://www.gutenberg.org/2009/agents/1179
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Bulfinch
+description: Vol. 1 -- The age of fable ; Vol. 2 -- The age of chivalry ; Vol. 3 --
+  Legends of Charlemagne.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances'
+- !lcsh 'Mythology'
+- !lcc 'BL'
+- !lcsh 'Charlemagne, Emperor, 742-814 -- Romances -- Adaptations'
+- !lcsh 'Folklore -- Europe'
+tableOfContents: The age of fable -- The age of chivalry -- Legends of Charlemagne.
+title: Bulfinch's Mythology
+url: http://www.gutenberg.org/ebooks/4928
