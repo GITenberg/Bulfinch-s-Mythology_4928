@@ -1,5 +1,5 @@
 _repo: Bulfinch-s-Mythology_4928
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcc 'BL'
 - !lcsh 'Charlemagne, Emperor, 742-814 -- Romances -- Adaptations'
 - !lcsh 'Folklore -- Europe'
+- GITenberg
 tableOfContents: The age of fable -- The age of chivalry -- Legends of Charlemagne.
 title: Bulfinch's Mythology
 url: http://www.gutenberg.org/ebooks/4928
